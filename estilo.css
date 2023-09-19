@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+.home__content{
+    text-align: center;
+    justify-content: center;
+}
+
+.home__images{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    height: 250px;
+   }
+  
+   .home__images img{
+    position: absolute;
+   }
+  
+   .home__cohete{
+    width: 200px;
+    
+   }
+  
+   .home__nube1{
+    width: 100px;
+    top: 1.25rem;
+    right:.75rem;
+    
+    
+   }
+  
+   .home__nube2{
+    
+    width: 100px;
+    top: 15rem;
+    left: .75rem;
+    
+   }
+  
+   
+  .home__abajonube,
+  .home__abajonube2{
+  position: absolute;
+  bottom: 0;
+  max-width: initial;
+  }
+  
+  
+  .home__abajonube{
+    position: absolute;
+    bottom: 0;
+    width: 400px;
+    height: 30vh;
+    
+    
+    
+    }
+  
+  .home__abajonube2{
+  position: absolute;
+  bottom: 0;
+  width: 300px;
+  right: -.1rem;
+  
+  }
+  
+  

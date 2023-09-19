@@ -1,3 +1,5 @@
+
+
 var words = ["Responsive.", "Onepage", "Custom", "Professional.","Optimized.", "Ecommerce", "Landing Page"]; // Lista de palabras que se mostrarán
 
 var i = 0; // Índice de la palabra actual
